@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  },
+  "scripts": {
+    "day-1": "ts-node day-1.ts"
+  }
+}
