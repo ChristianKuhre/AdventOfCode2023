@@ -16,7 +16,7 @@ const getStringDigit = (str: string, dir: number) => {
 
 
 const run = async () => {
-    const input = createInterface(createReadStream("day-1-input"))
+    const input = createInterface(createReadStream("day-1/input"))
 
     const values: number[] = []
     
