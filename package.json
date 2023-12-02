@@ -4,6 +4,7 @@
     "typescript": "^5.3.2"
   },
   "scripts": {
-    "day-1": "ts-node day-1/index.ts"
+    "day-1": "ts-node day-1/index.ts",
+    "day-2": "ts-node day-2/index.ts"
   }
 }
