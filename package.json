@@ -5,6 +5,7 @@
   },
   "scripts": {
     "day-1": "ts-node day-1/index.ts",
-    "day-2": "ts-node day-2/index.ts"
+    "day-2": "ts-node day-2/index.ts",
+    "day-3": "ts-node day-3/index.ts"
   }
 }
