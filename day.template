@@ -1,0 +1,12 @@
+import { createReadStream } from "fs"
+import { createInterface, clearLine } from "readline"
+ 
+const run = async () => {
+    const input = createInterface(createReadStream("day-8/input"))
+
+    for await (const line of input) {
+
+    }
+}
+
+run()

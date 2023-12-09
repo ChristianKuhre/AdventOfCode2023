@@ -11,6 +11,7 @@
     "day-5": "ts-node day-5/index.ts",
     "day-6": "ts-node day-6/index.ts",
     "day-7": "ts-node day-7/index.ts",
-    "day-8": "ts-node day-8/index.ts"
+    "day-8": "ts-node day-8/index.ts",
+    "day-9": "ts-node day-9/index.ts"
   }
 }
